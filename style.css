@@ -39,6 +39,7 @@ h2 {
 	border-radius: 2px;
 	background-color: rgb(212, 212, 212);
 	box-shadow: 5px 4px 5px rgb(202, 202, 202);
+	overflow: hidden;
 }
 
 .item a:hover {
@@ -50,4 +51,11 @@ h2 {
 	position: relative;
 	top: -75px;
 	font-size: 12px;
+	overflow: hidden;
+}
+
+@media (max-width: 680px) {
+.item {
+	width: 85%;
+}
 }
