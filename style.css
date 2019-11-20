@@ -11,7 +11,7 @@ h2 {
 }
 
 .content {
-	width: 70%;
+	width: 84%;
 	margin: auto;
 	text-align: center;
 }
@@ -55,7 +55,13 @@ h2 {
 }
 
 @media (max-width: 980px) {
+
+.content {
+	width: 94%;
+}
+
 .item {
 	width: 85%;
 }
 }
+
