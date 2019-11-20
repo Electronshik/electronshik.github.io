@@ -54,7 +54,7 @@ h2 {
 	overflow: hidden;
 }
 
-@media (max-width: 920px) {
+@media (max-width: 950px) {
 .item {
 	width: 85%;
 }
