@@ -46,8 +46,8 @@ h2 {
 	box-shadow: 8px 4px 5px rgb(158, 168, 182);
 }
 
-.item p {
+.item a > p {
 	position: relative;
-	top: -32px;
+	top: -75px;
 	font-size: 12px;
 }
