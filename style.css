@@ -119,12 +119,22 @@ a > img {
 
 .c-article-tile.t-4,
 .c-article-tile.t-4 a {
-  color: #ab9;
+  color: #99a;
+}
+
+.c-article-tile.t-5a,
+.c-article-tile.t-5a a {
+  color: #5f8c8f;
 }
 
 .c-article-tile.t-5,
 .c-article-tile.t-5 a {
   color: #3acf6f;
+}
+
+.c-article-tile.t-6a,
+.c-article-tile.t-6a a {
+  color: #e69;
 }
 
 .c-article-tile.t-6,
@@ -134,7 +144,7 @@ a > img {
 
 .c-article-tile.t-7,
 .c-article-tile.t-7 a {
-  color: #e69;
+  color: #a99fb9;
 }
 
 .c-article-tile.t-8,
